@@ -755,7 +755,7 @@
 
         const PRODUCTS = [{
                 id: 1,
-                title: 'iPhone 14 Pro Max',
+                title: 'iPhone 20 proooooooo',
                 price: 1099,
                 oldPrice: 1199,
                 rating: 5,
